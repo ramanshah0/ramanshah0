@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 - 👋 Hi, I’m @ramanshah0
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web development
